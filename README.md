@@ -11,3 +11,5 @@
 
 5- edit on brances to sync to main
 
+6- edit in vs code
+
